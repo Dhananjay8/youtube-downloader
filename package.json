@@ -1,0 +1,27 @@
+{
+  "name": "youtube-downloader",
+  "version": "1.0.0",
+  "description": "Yet another youtube downloading module. Written with only Javascript and a node-friendly streaming interface.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dhananjay8/youtube-downloader.git"
+  },
+  "keywords": [
+    "ytdl-core"
+  ],
+  "author": "Dhananjay Patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dhananjay8/youtube-downloader/issues"
+  },
+  "homepage": "https://github.com/Dhananjay8/youtube-downloader#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "ytdl-core": "^1.0.3"
+  }
+}
